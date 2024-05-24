@@ -130,114 +130,90 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Barepapers",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "Rakshak-app",
+      techStack: ["Side Project", "Dart", "Flutter"],
       description:
-        "Generates beautiful wallpapers using random shapes and gradients",
+        "Rakshak is a comprehensive home security Flutter app designed to provide users with a seamless and intuitive interface for monitoring and managing their home security system.",
       logo: BarepapersLogo,
       link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
+        label: "Rakshak",
+        href: "https://github.com/anupammaurya6767/rakshak-app",
       },
     },
     {
-      title: "Year progress",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description: "Tracks current year progress and displays a countdown",
+      title: "Expresso",
+      techStack: ["Side Project", "Javascript", "Next.js", "MongoDB"],
+      description: "A blog site",
       logo: YearProgressLogo,
       link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
+        label: "Expresso",
+        href: "https://expresso-beta.vercel.app/",
       },
     },
     {
-      title: "Parabol",
+      title: "Tuberculosis_Detection",
       techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        "Machine Learning",
+        "Tensorflow",
+        "Python",
+        "Google-colab",
       ],
       description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
+        "This project develops a machine learning model to detect tuberculosis from chest scans. Utilizing advanced image processing and AI algorithms, the model accurately identifies tuberculosis indicators in chest X-rays, providing a reliable tool for early diagnosis and intervention.",
       logo: ParabolLogo,
       link: {
-        label: "github.com",
-        href: "https://parabol.co/",
+        label: "tb",
+        href: "https://colab.research.google.com/drive/17bq7mdHhAv8UA92Ohxe2D1obCArazrim?usp=sharing",
       },
     },
     {
-      title: "Evercast",
+      title: "AutoApply Bot",
       techStack: [
-        "Lead Frontend Developer",
-
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        "Automation", "Python", "Selenium", "Script", "Gemini", "Google-ai"
       ],
       description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
+        "Auto apply to jobs on wellfound.com with a custom cover letter.",
       logo: EvercastLogo,
       link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
+        label: "auto-apply",
+        href: "https://pypi.org/project/autoply/1.0.0/",
       },
     },
     {
-      title: "Mobile Vikings",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "Underwater Image restoration",
+      techStack: ["Machine Learning",
+        "Tensorflow",
+        "Python",
+        "Google-colab",],
       description:
-        "Android application for leading virtual mobile operator in Poland",
+        "Developed a model to restore and enhance underwater images, using advanced image processing techniques and machine learning algorithms. This model effectively addresses issues such as color distortion, blur, and noise, resulting in clearer and more accurate underwater visuals.",
       logo: MobileVikingsLogo,
       link: {
-        label: "mobilevikings.pl",
-        href: "https://mobilevikings.pl/",
+        label: "Underwater-Image-restoration",
+        href: "https://colab.research.google.com/drive/1S2CK36-aaq44uPHqihufh334At2nPHv_?usp=sharing",
       },
     },
     {
-      title: "Howdy",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "Personal-Portfolio",
+      techStack: ["Portfolio", "Javascript", "React.js"],
       description:
-        "Howdy is a place for you to join communities you care about",
+        "My personal portfolio",
       logo: Howdy,
       link: {
-        label: "play.google.com",
-        href: "https://howdy.co/",
+        label: "Portfolio",
+        href: "https://personal-portfolio-two-sandy.vercel.app/",
       },
     },
     {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "TEDxDTU",
+      techStack: ["Full-Stack Developer", "Javascript", "Next.js", "Firebase"],
       description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
+        "TEDxDTU is a self-organized branch of the humongous non-profit organization TEDx. Our motto is to enlighten people,to impact fellow humans with powerful words, to ask them to believe that life is worth all the hustle and to appeal to a world that is ready to grow, ready to flourish and to welcome to new and better possibilities.",
       logo: TastyCloudLogo,
       link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
+        label: "tedxdtu.in",
+        href: "https://www.tedxdtu.in/",
       },
-    },
-    {
-      title: "Ambit",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with sharing your contact details",
-      logo: AmbitLogo,
-    },
-    {
-      title: "Bim",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with booking a table in a restaurants",
-      logo: BimLogo,
-    },
-    {
-      title: "Canal Digital GO",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Video streaming mobile application for Canal Digital subscribers",
-      logo: CDGOLogo,
     },
   ],
 } as const;
