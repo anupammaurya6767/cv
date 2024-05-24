@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Versatile Full-Stack Developer and AI/ML Enthusiast, Passionate about Web Development and Open Source Contribution",
   summary:
-    "Experienced Frontend Developer with a strong background in AI, ML, and open-source contribution. Proficient in C++, Web Development, and modern frameworks like Next.js and React.js. Skilled in problem-solving and effective communication, with a B.Tech in Computer Science from Delhi Technological University (Formerly DCE). Explore my contributions in AI, ML, and open source. Capable of managing large teams and assigning work effectively.",
+    "Experienced Full-Stack Developer with a strong background in AI, ML, and open-source contribution. Proficient in C++, Web Development, and modern frameworks like Next.js and React.js. Skilled in problem-solving and effective communication, with a B.Tech in Computer Science from Delhi Technological University (Formerly DCE). Explore my contributions in AI, ML, and open source. Capable of managing large teams and assigning work effectively.",
   avatarUrl: "https://avatars.githubusercontent.com/u/96181413?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
