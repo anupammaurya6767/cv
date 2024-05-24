@@ -83,6 +83,20 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Job Alert Bot (whatsapp)",
+      techStack: [
+        "Puppeteer",
+        "TypeScript",
+        "Javascript",
+      ],
+      description: "Implements automated job alert notifications using web-scrapping, keeping users informed about the latest job openings on whatsapp.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "Opp-alert-bot",
+        href: "https://linktr.ee/jobalertbot",
+      },
+    },
+    {
       title: "Luffy",
       techStack: [
         "Side Project",
