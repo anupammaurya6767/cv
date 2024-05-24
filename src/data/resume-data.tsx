@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "Experienced Full-Stack Developer with expertise in AI, ML, and open-source contribution. Proficient in C++, Next.js, and React.js. Skilled in problem-solving, communication, and team management. B.Tech in Computer Science from Delhi Technological University (Formerly DCE). Explore my AI, ML, and open-source contributions.",
   avatarUrl: "https://avatars.githubusercontent.com/u/96181413?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://anupam-maurya.vercel.app/",
   contact: {
     email: "anupammaurya981@gmail.com",
     tel: "+91 9911057242",
